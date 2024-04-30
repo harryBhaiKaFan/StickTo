@@ -1,10 +1,10 @@
 export const Lizard = {
     SCREEN: null,
     IMG: {
-        lz_bt_fl: "../img/lizard_bottom_flat.png",
-        lz_bt_st: "../img/lizard_bottom_stand.png",
-        lz_tp_fl: "../img/lizard_top_flat.png",
-        lz_tp_st: "../img/lizard_top_stand.png"
+        lz_bt_fl: "img/lizard_bottom_flat.png",
+        lz_bt_st: "img/lizard_bottom_stand.png",
+        lz_tp_fl: "img/lizard_top_flat.png",
+        lz_tp_st: "img/lizard_top_stand.png"
     },
     imgElem: null,
     W_H:1,

@@ -40,7 +40,7 @@ function Obstacle(img,WH,pos,x)
 }
 
 const ObsMng = {
-    obs_img: "../img/bg.png",
+    obs_img: "img/bg.png",
     obsWH:0,
     obsCnt:5,
     obs:[],
@@ -68,7 +68,7 @@ const ObsMng = {
 
 export const Wall = {
     SCREEN: null,
-    IMG_SRC: "../img/wall.png",
+    IMG_SRC: "img/wall.png",
     imgElem: null,
     count: 0,
     width: 0,
